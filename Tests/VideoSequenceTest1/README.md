@@ -14,5 +14,9 @@ Technical info
 --------------
 
 *   Blender version: 2.55 beta
-*   Files
-**    VideoSequenceTest1.blend
+*   [Vimeo render result][1]
+*   Files:
+    *    VideoSequenceTest1.blend
+
+
+[1]: http://vimeo.com/16517481
